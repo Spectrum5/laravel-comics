@@ -1,0 +1,29 @@
+.header-container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.logo-header img {
+    width: 81px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.nav-header {
+
+    ul {
+
+        li {
+            list-style-type: none;
+            padding-left: 20px;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            font-weight: bold;
+
+            a {
+                text-decoration: none;
+                color: inherit;
+            }
+        }
+    }
+}
