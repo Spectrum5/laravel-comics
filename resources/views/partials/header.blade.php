@@ -37,7 +37,8 @@
         </ul>
     </div>
     <div class="search">
-        <input type="text" placeholder="Search" class="border-0 border-bottom-1">
+        <input type="text" placeholder=" Search &#xf002;"
+            class="border-0 border-bottom border-primary text-end fa fa-search">
     </div>
 
 </div>
