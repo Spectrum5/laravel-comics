@@ -23,9 +23,12 @@
     }
 }
 
-.fa {
-    font-family: "Font Awesome 5 Free";
-    font-weight: 900;
-    font-size: 16px;
-    color: #ccc;
-  }
+.search input[type="text"] {
+    width: 70%;
+}
+
+.search input[type="text"]:focus {
+    border: none;
+    outline: none;
+    border-bottom: 2px solid blue;
+}
