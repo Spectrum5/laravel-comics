@@ -1,3 +1,14 @@
+<div class="container-top-header bg-primary text-white p-2">
+    <div class="container d-flex justify-content-end">
+        <div>
+            dc power visa
+        </div>
+        <div class=" ps-5">
+            additional dc sites
+        </div>
+    </div>
+
+</div>
 <div class="container">
     <div class="row d-flex align-items-center">
 
@@ -9,7 +20,7 @@
 
         <div class="col-8">
             <div class="nav-header d-flex">
-                <ul class="d-flex">
+                <ul class="d-flex w-100 justify-content-between">
                     <li>
                         <a href="#">characters</a>
                     </li>
@@ -45,7 +56,7 @@
         </div>
 
         <div class="col-2">
-            <div class="search">
+            <div class="search d-flex justify-content-end">
                 <input type="text" placeholder=" Search &#xf002;"
                     class="border-0 border-bottom border-primary text-end fa fa-search lowercase">
             </div>
