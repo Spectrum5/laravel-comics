@@ -23,12 +23,32 @@
     }
 }
 
-.search input[type="text"] {
-    width: 70%;
+.form-floating {
+    .form-control {
+        // padding: 0;
+        background-color: transparent;
+        border: 0;
+        border-bottom: 2px solid blue;
+        border-radius: 0;
+        text-align: end;
+
+        &:focus {
+            box-shadow: none;
+        }
+    }
+
+    label {
+        font-weight: 900;
+        color: gray;
+        text-transform: capitalize;
+    }
 }
 
-.search input[type="text"]:focus {
-    border: none;
-    outline: none;
+span.input-group-text {
+    padding: 0;
+    background-color: transparent;
+    border: 0;
     border-bottom: 2px solid blue;
+    border-radius: 0;
+
 }

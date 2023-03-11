@@ -56,9 +56,12 @@
         </div>
 
         <div class="col-2">
-            <div class="search d-flex justify-content-end">
-                <input type="text" placeholder=" Search &#xf002;"
-                    class="border-0 border-bottom border-primary text-end fa fa-search lowercase">
+            <div class="input-group">
+                <div class="form-floating">
+                    <input type="search" class="form-control" id="###" placeholder="#">
+                    <label for="###" class="text-end">Search</label>
+                </div>
+                <span class="input-group-text"><i class="fa-solid fa-magnifying-glass"></i></span>
             </div>
         </div>
     </div>
