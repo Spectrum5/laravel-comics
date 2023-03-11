@@ -36,130 +36,141 @@
 
 <div class="footer-main-container">
 
-    <div class="footer-flex">
-        <div class="footer-main">
-            <div class="list-footer">
-                <h3>
-                    dc comics
-                </h3>
-                <ul>
-                    <li>
-                        <a href="#">characters</a>
-                    </li>
-                    <li>
-                        <a href="#">comics</a>
-                    </li>
-                    <li>
-                        <a href="#">movies</a>
-                    </li>
-                    <li>
-                        <a href="#">tv</a>
-                    </li>
-                    <li>
-                        <a href="#">games</a>
-                    </li>
-                    <li>
-                        <a href="#">videos</a>
-                    </li>
-                    <li>
-                        <a href="#">news</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="list-footer">
-                <h3>
-                    shop
-                </h3>
-                <ul>
-                    <li>
-                        <a href="#">characters</a>
-                    </li>
-                    <li>
-                        <a href="#">comics</a>
-                    </li>
+    <div class="footer-flex container p-5">
+        <div class="row">
+            <div class="col d-flex">
+                <div class="footer-main">
+                    <div class="list-footer">
+                        <h3>
+                            dc comics
+                        </h3>
+                        <ul>
+                            <li>
+                                <a href="#">characters</a>
+                            </li>
+                            <li>
+                                <a href="#">comics</a>
+                            </li>
+                            <li>
+                                <a href="#">movies</a>
+                            </li>
+                            <li>
+                                <a href="#">tv</a>
+                            </li>
+                            <li>
+                                <a href="#">games</a>
+                            </li>
+                            <li>
+                                <a href="#">videos</a>
+                            </li>
+                            <li>
+                                <a href="#">news</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="list-footer">
+                        <h3>
+                            shop
+                        </h3>
+                        <ul>
+                            <li>
+                                <a href="#">characters</a>
+                            </li>
+                            <li>
+                                <a href="#">comics</a>
+                            </li>
 
-                </ul>
-            </div>
+                        </ul>
+                    </div>
 
+                </div>
+
+                <div class="footer-main">
+                    <div class="list-footer">
+                        <h3>
+                            dc
+                        </h3>
+                        <ul>
+                            <li>
+                                <a href="#">terms of use</a>
+                            </li>
+                            <li>
+                                <a href="#">privacy policy (new)</a>
+                            </li>
+                            <li>
+                                <a href="#">ad choices</a>
+                            </li>
+                            <li>
+                                <a href="#">advertising</a>
+                            </li>
+                            <li>
+                                <a href="#">jobs</a>
+                            </li>
+                            <li>
+                                <a href="#">subscriptions</a>
+                            </li>
+                            <li>
+                                <a href="#">talent workshops</a>
+                            </li>
+                            <li>
+                                <a href="#">CPSC certificates</a>
+                            </li>
+                            <li>
+                                <a href="#">ratings</a>
+                            </li>
+                            <li>
+                                <a href="#">shop help</a>
+                            </li>
+                            <li>
+                                <a href="#">contact us</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+
+                <div class="footer-main">
+                    <div class="list-footer">
+                        <h3>
+                            sites
+                        </h3>
+                        <ul>
+                            <li>
+                                <a href="#">DC</a>
+                            </li>
+                            <li>
+                                <a href="#">MAD magazine</a>
+                            </li>
+                            <li>
+                                <a href="#">DC kids</a>
+                            </li>
+                            <li>
+                                <a href="#">DC universe</a>
+                            </li>
+                            <li>
+                                <a href="#">DC power visa</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="text-footer">
+                        All Site Content TM and © 2020 DC Entertainment, unless otherwise <a href="#">noted
+                            here</a>. All rights reserved.
+                        <br>
+                        <a href="#">Cookies Setting</a>
+                    </div>
+                </div>
+            </div>
         </div>
 
-        <div class="footer-main">
-            <div class="list-footer">
-                <h3>
-                    dc
-                </h3>
-                <ul>
-                    <li>
-                        <a href="#">terms of use</a>
-                    </li>
-                    <li>
-                        <a href="#">privacy policy (new)</a>
-                    </li>
-                    <li>
-                        <a href="#">ad choices</a>
-                    </li>
-                    <li>
-                        <a href="#">advertising</a>
-                    </li>
-                    <li>
-                        <a href="#">jobs</a>
-                    </li>
-                    <li>
-                        <a href="#">subscriptions</a>
-                    </li>
-                    <li>
-                        <a href="#">talent workshops</a>
-                    </li>
-                    <li>
-                        <a href="#">CPSC certificates</a>
-                    </li>
-                    <li>
-                        <a href="#">ratings</a>
-                    </li>
-                    <li>
-                        <a href="#">shop help</a>
-                    </li>
-                    <li>
-                        <a href="#">contact us</a>
-                    </li>
-                </ul>
-            </div>
-
-        </div>
-
-        <div class="footer-main">
-            <div class="list-footer">
-                <h3>
-                    sites
-                </h3>
-                <ul>
-                    <li>
-                        <a href="#">DC</a>
-                    </li>
-                    <li>
-                        <a href="#">MAD magazine</a>
-                    </li>
-                    <li>
-                        <a href="#">DC kids</a>
-                    </li>
-                    <li>
-                        <a href="#">DC universe</a>
-                    </li>
-                    <li>
-                        <a href="#">DC power visa</a>
-                    </li>
-                </ul>
-            </div>
-
-        </div>
 
     </div>
     <div class="container p-0">
-        <div class="text-footer">
-            All Site Content TM and © 2020 DC Entertainment, unless otherwise <a href="#">noted here</a>. All rights reserved.
-            <br>
-            <a href="#">Cookies Setting</a>
-        </div>
+
     </div>
 </div>
 
