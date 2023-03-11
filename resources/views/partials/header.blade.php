@@ -1,11 +1,18 @@
 <div class="container-top-header bg-primary text-white p-2">
     <div class="container d-flex justify-content-end">
-        <div>
-            dc power visa
+        <div class="text-uppercase">
+            dc power&trade; visa
         </div>
-        <div class=" ps-5">
-            additional dc sites
-        </div>
+        <div class="dropdown">
+            <a class="dropdown-toggle text-white text-decoration-none ms-3 text-uppercase" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                additional dc sites
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Action</a></li>
+              <li><a class="dropdown-item" href="#">Another action</a></li>
+              <li><a class="dropdown-item" href="#">Something else here</a></li>
+            </ul>
+          </div>
     </div>
 
 </div>
