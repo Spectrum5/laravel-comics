@@ -12,7 +12,7 @@
 <div class="container">
     <div class="row d-flex align-items-center">
 
-        <div class="col-2">
+        <div class="col-2 p-0">
             <div class="logo-header">
                 <img src="{{ Vite::asset('resources/img/dc-logo.png') }}" alt="">
             </div>
