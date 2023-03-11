@@ -8,14 +8,15 @@
     {{-- Fontawesome --}}
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
 
-    <title>Laravel Comics | @yield('page-title')</title>
+    <title>Laravel Comics | @yield('page-title', 'Home')</title>
 
     @vite('resources/js/app.js')
 </head>
 
 <body>
     <header>
-        @include('partials.header')
+        @include('partials.header') 
+        @include("partials.hero")
     </header>
 
     <main>

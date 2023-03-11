@@ -1,31 +1,31 @@
 <div class="top-footer-container">
     <div class="container-top-footer">
         <div>
-            <img src="../assets/img/buy-comics-digital-comics.png" alt="Digital Comics">
+            <img src="{{Vite::asset("resources/img/buy-comics-digital-comics.png")}}" alt="Digital Comics">
             <span>
                 digital comics
             </span>
         </div>
         <div>
-            <img src="../assets/img/buy-comics-merchandise.png" alt="Digital Comics">
+            <img src="{{Vite::asset("resources/img/buy-comics-merchandise.png")}}" alt="Digital Comics">
             <span>
                 dc merchandise
             </span>
         </div>
         <div>
-            <img src="../assets/img/buy-comics-subscriptions.png" alt="Digital Comics">
+            <img src="{{Vite::asset("resources/img/buy-comics-subscriptions.png")}}" alt="Digital Comics">
             <span>
                 subscription
             </span>
         </div>
         <div>
-            <img src="../assets/img/buy-comics-shop-locator.png" alt="Digital Comics">
+            <img src="{{Vite::asset("resources/img/buy-comics-shop-locator.png")}}" alt="Digital Comics">
             <span>
                 comic shop locator
             </span>
         </div>
         <div>
-            <img src="../assets/img/buy-dc-power-visa.svg" alt="Digital Comics">
+            <img src="{{Vite::asset("resources/img/buy-dc-power-visa.svg")}}" alt="Digital Comics">
             <span>
                 dc power visa
             </span>
@@ -165,27 +165,27 @@
             <ul>
                 <li>
                     <a href="#">
-                        <img src="../assets/img/footer-facebook.png" alt="Facebook">
+                        <img src="{{Vite::asset("resources/img/footer-facebook.png")}}" alt="facebook">
                     </a>
                 </li>
                 <li>
                     <a href="#">
-                        <img src="../assets/img/footer-twitter.png" alt="Facebook">
+                        <img src="{{Vite::asset("resources/img/footer-twitter.png")}}" alt="twitter">
                     </a>
                 </li>
                 <li>
                     <a href="#">
-                        <img src="../assets/img/footer-youtube.png" alt="Facebook">
+                        <img src="{{Vite::asset("resources/img/footer-youtube.png")}}" alt="youtube">
                     </a>
                 </li>
                 <li>
                     <a href="#">
-                        <img src="../assets/img/footer-pinterest.png" alt="Facebook">
+                        <img src="{{Vite::asset("resources/img/footer-pinterest.png")}}" alt="pinterest">
                     </a>
                 </li>
                 <li>
                     <a href="#">
-                        <img src="../assets/img/footer-periscope.png" alt="Facebook">
+                        <img src="{{Vite::asset("resources/img/footer-periscope.png")}}" alt="periscope">
                     </a>
                 </li>
             </ul>
