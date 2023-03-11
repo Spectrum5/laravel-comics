@@ -1,31 +1,31 @@
 <div class="top-footer-container">
     <div class="container-top-footer">
         <div>
-            <img src="{{Vite::asset("resources/img/buy-comics-digital-comics.png")}}" alt="Digital Comics">
+            <img src="{{ Vite::asset('resources/img/buy-comics-digital-comics.png') }}" alt="Digital Comics">
             <span>
                 digital comics
             </span>
         </div>
         <div>
-            <img src="{{Vite::asset("resources/img/buy-comics-merchandise.png")}}" alt="Digital Comics">
+            <img src="{{ Vite::asset('resources/img/buy-comics-merchandise.png') }}" alt="Digital Comics">
             <span>
                 dc merchandise
             </span>
         </div>
         <div>
-            <img src="{{Vite::asset("resources/img/buy-comics-subscriptions.png")}}" alt="Digital Comics">
+            <img src="{{ Vite::asset('resources/img/buy-comics-subscriptions.png') }}" alt="Digital Comics">
             <span>
                 subscription
             </span>
         </div>
         <div>
-            <img src="{{Vite::asset("resources/img/buy-comics-shop-locator.png")}}" alt="Digital Comics">
+            <img src="{{ Vite::asset('resources/img/buy-comics-shop-locator.png') }}" alt="Digital Comics">
             <span>
                 comic shop locator
             </span>
         </div>
         <div>
-            <img src="{{Vite::asset("resources/img/buy-dc-power-visa.svg")}}" alt="Digital Comics">
+            <img src="{{ Vite::asset('resources/img/buy-dc-power-visa.svg') }}" alt="Digital Comics">
             <span>
                 dc power visa
             </span>
@@ -152,8 +152,18 @@
             </div>
 
         </div>
+
+    </div>
+    <div class="container p-0">
+        <div class="text-footer">
+            All Site Content TM and © 2020 DC Entertainment, unless otherwise <a href="#">noted here</a>. All rights reserved.
+            <br>
+            <a href="#">Cookies Setting</a>
+        </div>
     </div>
 </div>
+
+{{-- Footer Bottom --}}
 
 <div class="container-bottom">
     <div class="bottom-container">
@@ -165,27 +175,27 @@
             <ul>
                 <li>
                     <a href="#">
-                        <img src="{{Vite::asset("resources/img/footer-facebook.png")}}" alt="facebook">
+                        <img src="{{ Vite::asset('resources/img/footer-facebook.png') }}" alt="facebook">
                     </a>
                 </li>
                 <li>
                     <a href="#">
-                        <img src="{{Vite::asset("resources/img/footer-twitter.png")}}" alt="twitter">
+                        <img src="{{ Vite::asset('resources/img/footer-twitter.png') }}" alt="twitter">
                     </a>
                 </li>
                 <li>
                     <a href="#">
-                        <img src="{{Vite::asset("resources/img/footer-youtube.png")}}" alt="youtube">
+                        <img src="{{ Vite::asset('resources/img/footer-youtube.png') }}" alt="youtube">
                     </a>
                 </li>
                 <li>
                     <a href="#">
-                        <img src="{{Vite::asset("resources/img/footer-pinterest.png")}}" alt="pinterest">
+                        <img src="{{ Vite::asset('resources/img/footer-pinterest.png') }}" alt="pinterest">
                     </a>
                 </li>
                 <li>
                     <a href="#">
-                        <img src="{{Vite::asset("resources/img/footer-periscope.png")}}" alt="periscope">
+                        <img src="{{ Vite::asset('resources/img/footer-periscope.png') }}" alt="periscope">
                     </a>
                 </li>
             </ul>
