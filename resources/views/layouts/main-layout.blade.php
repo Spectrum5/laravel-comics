@@ -16,7 +16,7 @@
 <body>
     <header>
         @include('partials.header') 
-        @include("partials.hero")
+        @yield("header-content")
     </header>
 
     <main>
